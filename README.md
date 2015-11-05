@@ -3,7 +3,7 @@
 > *Lords of Westeros,*
 >  
 > *As you may already know, the Targaryen family has refused to join the hold of the Free Cities.
-> I refused for I have bigger aspirations; Westeros will bend the knee and pledge loyality to the blessed Valiryan Dinasty.*
+> I refused for I have bigger aspirations; Westeros will bend the knee and pledge loyalty to the blessed Valiryan Dynasty.*
 > 
 > *The choice is your my lords, servitude, or Fire and Blood.*
 > 
@@ -12,13 +12,13 @@
 ## Introduction
 
 This variant aims to provide the scenario of the War Of Conquest, when Aegon Targaryen became the only King of the Westeros.
-With Martells being the only exception, all the others Westerosi Kings were conquered and become mere Wardens of the land.
+With Martells being the only exception, all the others Westerosi Kings were conquered and became mere Wardens of the land.
 Will you let the history repeat itself? Try this variant and defend you country, or be the conqueror and wipe the land
 with Fire and Blood.
 
 ## Main changes
 
-- **Players** have 3 distinct roles (see below), at the begginning of the game Targaryen is the *Conqueror*, and all the other players are *Kings*
+- **Players** have 3 distinct roles (see below), at the beginning of the game Targaryen is the *Conqueror*, and all the other players are *Kings*
 If any a *King* loses control of his home area to the *Conqueror* or *Lords*, he become a *Lord* himself, and is placed at the bottom of the Iron Throne track
     - If a player loses control to any other *King* he remains as *King*
     - Once a player become a *Lord* he cannot reclaim the status of *King*
@@ -46,7 +46,7 @@ Control any 5 home areas
   1. The Conqueror must loose the game AND... 
   2. Control your home area and 4 more castles or strongholds by end of round 10
 - **Special:**
-Kings may become Lords by loosing it's home area for the *Conqueror*
+Kings may become Lords by loosing its home area for the *Conqueror*
 
 #### Lords
 - **Lords objective:**
@@ -153,7 +153,7 @@ Lords cannot march in any territory in any way that would causa a battle with th
 - [2] Greatbran Snow
   - 1 swords
 - [1] Ser Lothor Glover
-  - *You may immediately upgrade 1 Footmen to Knigth on the embattled area. If you do so, this card gain 2 Fortification icons.*
+  - *You may immediately upgrade 1 Footmen to Knight on the embattled area. If you do so, this card gain 2 Fortification icons.*
 - [1] Ben Blackwood
   - *You do not take casualties in this combat from House card abilities, Combat icons, or Tides of Battle cards.*
 - [0] Donnel Karstark
@@ -173,7 +173,7 @@ Lords cannot march in any territory in any way that would causa a battle with th
 - [1] Bert Arryn
   - *If you win this combat and control The Eyrie, you may discard 2 PTs to force your opponent to discard all of his available PTs.*
 - [0] King Ronnel Arryn
-  - *Before the combat you may retreat any number of units from the embatled area.*
+  - *Before the combat, you may retreat any number of units from the embattled area.*
 
 ### Hoares of the Isles and the Rivers
 - [4] Erich Hoare
@@ -220,7 +220,7 @@ Lords cannot march in any territory in any way that would causa a battle with th
 - [1] Mace Florent
   - 1 forts
 - [1] Warrior of the Blossom
-  - *This cards gains X Fortification icons. Where X is equal the number of Supply icons on the embatled area.*
+  - *This cards gains X Fortification icons. Where X is equal the number of Supply icons on the embattled area.*
 - [0] Allan the Grasshoper
   - *Immediately remove one of your opponent's Order token in any area adjacent to the embattled area other than the March Order token used to start this combat.*
 
@@ -238,7 +238,7 @@ Lords cannot march in any territory in any way that would causa a battle with th
 - [1] Dickon Morrigen
   - 2 forts
 - [0] Argella Durradon
-  - *You may sacrifice a Footmen or Knight on the emblatled area, if you do so, retreat any number of your other units. After the combat, the attacking units on the embattled area become routed.*
+  - *You may sacrifice a Footmen or Knight on the emblatled area, if you do so, retreat any number of your other units. After the combat, rout the units on the embattled area.*
 
 ### Martells of Dorne
 - [4] Doren Snake-eyes
@@ -252,7 +252,7 @@ Lords cannot march in any territory in any way that would causa a battle with th
 - [1] Mors Sand
   - *If you are defending, this card gains a fortification icon. If you are attacking, this card gains 1 Sword icon.*
 - [1] Dorea Martell
-  - *If you are defending and lose this combat, your opponent may not move his units into the embattled area. They return to the area from which they marched. Your own units must still retreat.*
+  - *If you are defending, and lose this combat, your opponent may not move his units into the embattled area. They return to the area from which they marched. Your own units must still retreat.*
 - [0] Meria Martell, the Yellow Toad
   - *Immediately move your opponent to the bottom of one Influence track of your choice.*
 
@@ -264,7 +264,7 @@ Lords cannot march in any territory in any way that would causa a battle with th
   - 2 swords | 1 forts
 - [2] Queen Visenya
   - 1 skull
-  - *If you win the battle, you can replace one enemy Footmen or Knigth for one Targaryen Footmen.*
+  - *If you win the battle, you can replace one enemy Footmen or Knight for one Targaryen Footmen.*
 - [2] Queen Rhaenys
   - 1 skull | 1 forts 
 - [1] Daemon Velaryon

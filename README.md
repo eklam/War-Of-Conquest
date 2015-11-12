@@ -29,7 +29,7 @@ This order can be resolved as a Raid Order, Support Order or as a March Order. W
   - *Why: To simulate the raw power of Targaryen dragons*
 - **Tracks** with the exception below, the tracks works as usual 
   - Wildling Track becomes: 0, 3, 5, 8, 11, 13, 16 
-  - **[Cr] Crow:** The number of special orders per player in the Crow track is:
+  - **[KC] King's Court:** The number of special orders per player in the Crow track is:
     - Number of Special Orders: 3 | 3 | 2 | 2 | 1 | 0 | 0 | 0
 
 ### Player Roles
@@ -66,17 +66,19 @@ Lords cannot march in any territory in any way that would causa a battle with th
 - *Seagard* ceases to exist, *The Twins* (1 crown, 1 supply, 1 stronghold) now extends from *The Fingers* to *Ironman's Bay*
 
 **Vale**
-- *The Mountains of Moon* split into *The Bloody Gate* (1 supply) and *The Eyrie* (1 crown, 1 stronghold)
 - *The Eyrie* becomes *Gultown* (1 port)
-- Added *The Vale Sea* surrounding *The Fingers*, *The Eyrie* and *Gultown*
+- *The Mountains of Moon* split into *The Bloody Gate* (1 supply) and *The Eyrie* (1 crown, 1 stronghold)
+- Added *The Vale Sea* surrounding *The Eyrie* and *Gultown*
 
 **Westerlands**
 - *Harrenhal* (1 crown, 1 stronghold), instead of the castle 
 - *Lannisport* split into *Casterly Rock* (2 supply, 1 stronghold) and *Banefort* (1 castle)
-- *Stoneysept* split into *The Golden Tooth* (1 crown, 1 castle) and *Stoneysept* (1 supply)
+- *Stoney Sept* split into *Golden Tooth* (1 crown, 1 castle) and *Stoney Sept* (1 supply)
 
 **Stormlads**
-- *King's Landing* split into *King's Landing* (1 crown) and *Aegonfort* (1 castle)
+- *Cracklaww Point* (1 castle, 1 supply), instead of the castle
+- *King's Landing* split into *Aegon's Landing* (1 crown) and *Aegonfort* (1 castle)
+- *Kingswood* is called *Bronzegate* (1 crown, 1 supply)
 - Added *Tarth Island* (1 supply)
 - Added *Stepstones Islands* (1 castle) into *East Summer Sea*
 
@@ -89,57 +91,56 @@ Lords cannot march in any territory in any way that would causa a battle with th
 - **Winterfell**: 1 Knight, 1 Footmen
 - White Harbor: 1 Footmen
 - White Harbor - Port: 1 Ship
-- Tracks: IT: 4, VB: 8, Cr: 2 (3 stars)
+- Tracks: IT: 4, FT: 8, KC: 2 (3 stars)
 
 **[A]rryn**
 - **The Eyrie**: 1 Knight, 1 Footmen
 - The Bloody Gate: 1 Footmen
 - The Vale Sea: 1 Ship
-- Tracks: IT: 5, VB: 5, Cr: 4 (2 stars)
+- Tracks: IT: 5, FT: 5, KC: 4 (2 stars)
 
 **[H]oares**
-- **Harrenhal**: 1 Knight
+- **Harrenhal**: 1 Knight, 1 Footmen
 - Riverrun: 1 Footmen
-- The Twins: 1 Footmen
 - Ironman's Bay: 1 Ship
-- Tracks: IT: 8, VB: 3, Cr: 3 (2 stars)
+- Tracks: IT: 8, FT: 3, KC: 3 (2 stars)
 
 **[L]annister**
 - **Casterly Rock**: 1 Knight, 1 Footmen
 - The Golden Sound: 1 Ship
 - The Golden Tooth: 1 Footmen
-- Tracks: IT: 3, VB: 4, Cr: 8 (0 stars)
+- Tracks: IT: 3, FT: 4, KC: 8 (0 stars)
 
 **[Ga]rdener**
 - **Highgarden**: 1 Knight
 - The Reach: 2 Footmen
 - The Redwyne Straigth: 1 Ship
-- Tracks: IT: 2, VB: 7, Cr: 6 (0 stars)
+- Tracks: IT: 2, FT: 7, KC: 6 (0 stars)
 
 **[D]urrandon**
 - **Storm's End**: 1 Knight, 1 Footmen
 - Storm's End - port: 1 Ship
 - Tarth Island: 1 Footmen
 - Summerhall: 1 Footmen
-- Tracks: IT: 7, VB: 6, Cr: 1 (3 stars)
+- Tracks: IT: 7, FT: 6, KC: 1 (3 stars)
 
 **[M]artells**
 - **Sunspear**: 1 Knight, 1 Footmen
 - Saltshore: 1 Footmen
 - Sea of Dorne: 1 Ship
-- Tracks: IT: 6, VB: 1, Cr: 7 (0 stars)
+- Tracks: IT: 6, FT: 1, KC: 7 (0 stars)
 
 **[Ta]rgaryen**
 - **Dragonstone:** 1 Knight
 - Dragonstone - Port: 1 Ship
 - Aegonfort: 1 Knight, 2 Footmen
 - Blackwater Bay: 1 Ship
-- Tracks: IT: 1, VB: 2, Cr: 5 (1 star)
+- Tracks: IT: 1, FT: 2, KC: 5 (1 star)
 
 **Tracks Summary**
-- [IT] Iron Throne: **Ta** > Ga > L > S > A > M > D > H
-- [VB] Valyrian-steel Blade: **M** > Ta > H > L > A > D > G > S
-- [Cr] Crow: **D(4)** > S(3) > H(2) > A(2) > Ta(1) > Ga(-) > L(-) > M(-)
+- [IT] Iron Throne Track: **Ta** > Ga > L > S > A > M > D > H
+- [FT] Fiefdoms Track: **M** > Ta > H > L > A > D > G > S
+- [KC] King's Court: **D(3)** > S(3) > H(2) > A(2) > Ta(1) > Ga(-) > L(-) > M(-)
 
 ## House Cards
 

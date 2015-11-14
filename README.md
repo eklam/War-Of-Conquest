@@ -19,14 +19,17 @@ with Fire and Blood.
 ## Main changes
 
 - **Players** have 3 distinct roles (see below), at the beginning of the game Targaryen is the *Conqueror*, and all the other players are *Kings*
-If any a *King* loses control of his home area to the *Conqueror* or *Lords*, he become a *Lord* himself, and is placed at the bottom of the Iron Throne track
+If any a *King* loses control of his capital to the *Conqueror* or *Lords*, he become a *Lord* himself, and is placed at the bottom of the Iron Throne track
     - If a player loses control to any other *King* he remains as *King*
     - Once a player become a *Lord* he cannot reclaim the status of *King*
+    
 - **Units: ** The max number of ships per player is 3 instead of the standard 6
   - *Why: The War Of Conquest was mainly battle on land, to emulate this the number of ships is reduced* 
+
 - **Dragon Order: ** The Targaryen player has one new type of order, the *Dragon Order*.
 This order can be resolved as a Raid Order, Support Order or as a March Order. When used as a Raid/March the order is discarded as usual.
   - *Why: To simulate the raw power of Targaryen dragons*
+
 - **Tracks** with the exception below, the tracks works as usual 
   - Wildling Track becomes: 0, 3, 5, 8, 11, 13, 16 
   - **[KC] King's Court:** The number of special orders per player in the Crow track is:
@@ -37,16 +40,12 @@ This order can be resolved as a Raid Order, Support Order or as a March Order. W
 *While the conqueror Aegon Targaryen is forcing Westeros to bend, the Seven Kings must stand their ground
 before other Houses ally with this new foe.*
 
-#### Conqueror
-- **Conqueror objective:**
-Control any 5 home areas
-
 #### Kings
 - **Kings objective:**
-  1. The Conqueror must loose the game AND... 
-  2. Control your home area and 4 more castles or strongholds by end of round 10
+  1. The Conqueror must not win the game AND... 
+  2. Control your capital and 4 more castles or strongholds by end of round 10
 - **Special:**
-Kings may become Lords by loosing its home area for the *Conqueror*
+Kings may become Lords by loosing its capital for the *Conqueror*
 
 #### Lords
 - **Lords objective:**
@@ -55,6 +54,10 @@ Kings may become Lords by loosing its home area for the *Conqueror*
 - **Special:**
 Lords cannot march in any territory in any way that would causa a battle with the Targaryen player
 
+#### Conqueror
+- **Conqueror objective:**
+Together with the Lords control any 6 capitals. (Targaryen capital also count as one)
+
 ## Map
 
 *Map is under development!*
@@ -62,7 +65,6 @@ Lords cannot march in any territory in any way that would causa a battle with th
 ## Main map changes:
 
 **North**
-- Added *Bear Island* (1 supply)
 - *Seagard* ceases to exist, *The Twins* (1 crown, 1 supply, 1 stronghold) now extends from *The Fingers* to *Ironman's Bay*
 
 **Vale**
@@ -77,7 +79,7 @@ Lords cannot march in any territory in any way that would causa a battle with th
 
 **Stormlads**
 - *Cracklaww Point* (1 castle, 1 supply), instead of the castle
-- *King's Landing* split into *Aegon's Landing* (1 crown) and *Aegonfort* (1 castle)
+- *King's Landing* split into *Aegon's Landing* (1 crown, 1 supply) and *Aegonfort* (1 castle)
 - *Kingswood* is called *Bronzegate* (1 crown, 1 supply)
 - Added *Tarth Island* (1 supply)
 - Added *Stepstones Islands* (1 castle) into *East Summer Sea*
@@ -143,6 +145,11 @@ Lords cannot march in any territory in any way that would causa a battle with th
 - [KC] King's Court: **D(3)** > S(3) > H(2) > A(2) > Ta(1) > Ga(-) > L(-) > M(-)
 
 ## House Cards
+
+**The Combat Icons**
+- **Sword** icon: During the *Combat Resolution* step, the player who won the combat (i.e., the victor) counts the number of Sword icons on his House card. For each Sword icon, an enemy unit in the embattled area must be destroyed
+- **Fortification** icon: For each Fortification icon on the House card of the defeated player, one of the victor's Sword icons is ignored.
+- **Dragon** icon: For each Dragon icon on the House card of either attacking or defending player, before the count of the combat begins, destroy one non ship unit in the embattled area. 
 
 ### Starks of the North
 - [4] Torrhen Stark
@@ -259,15 +266,15 @@ Lords cannot march in any territory in any way that would causa a battle with th
 
 ### Targaryens of Valyria
 - [4] Aegon Targaryen
-  - 1 skull
+  - 1 dragon
   - *Non-Targaryen support units add +0 combat strength.*
 - [3] Orys Baratheon
   - 2 swords | 1 forts
 - [2] Queen Visenya
-  - 1 skull
+  - 1 dragon
   - *If you win the battle, you can replace one enemy Footmen or Knight for one Targaryen Footmen.*
 - [2] Queen Rhaenys
-  - 1 skull | 1 forts 
+  - 1 dragon | 1 forts 
 - [1] Daemon Velaryon
   - *If there are no ships invoveld in any side of this battle, this card gain 1 Sword and 1 Forticiation icon.*
 - [1] Jon Mooton
